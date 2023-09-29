@@ -57,7 +57,7 @@ def serialization(fish):
         while True:
             if index >= len(fish) or i >= len(fish[index]): break
             newfish.append(fish[index][i])
-            index+=1
+            index+=1x
     return newfish
 
 def zfold(fish):
