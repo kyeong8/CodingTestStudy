@@ -3,7 +3,7 @@
 # 4시간
 # 최소힙사용, 구현
 # 구현, 시뮬레이션
-# 깡 구현함
+# 깡 구현함 !
 
 import math
 import heapq
