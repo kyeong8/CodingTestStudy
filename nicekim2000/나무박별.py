@@ -22,7 +22,6 @@ for _ in range(n):
 killer={}
 whole_kill=0
 for _ in range(m):
-
     # 나무 성장일기
     # 하,우 만 검사해서 진행
     for i in range(n):

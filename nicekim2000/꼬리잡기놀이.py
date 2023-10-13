@@ -102,7 +102,7 @@ for i in range(k):
         team=info[j]
         # 한 칸씩 인덱스 이동
         team[0]=(team[0]+team[2])%team[3]
-        team[1]=(team[1]+team[2])%team[3]
+        team[1]=(team[1]+team[2])%team[3]x
 
         count=1
         start=team[0]
